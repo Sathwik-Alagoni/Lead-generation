@@ -146,4 +146,4 @@ This project is licensed under the MIT License. See LICENSE for details.
 - PRAW for Reddit scraping.
 - snscrape for Twitter scraping.
 
-Made with ❤️ by Your Name. Let’s connect on [LinkedIn](https://linkedin.com/in/yourusername)!
+Made with ❤️ by Sathwik. Let’s connect on [LinkedIn](https://www.linkedin.com/in/sathwik-alagoni-056b692a0/)!
